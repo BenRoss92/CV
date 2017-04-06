@@ -8,17 +8,16 @@ Having learnt music to a high standard has aided my ability to learn coding. In 
 
 ## Tech & Projects
 
-Technologies found on my [Github](https://github.com/BenRoss92/):
+| Project | Summary | Technologies |
+|:---:|:---:|:---:|
+| [Plyr2](https://github.com/BenRoss92/plyr2) | A social media platform for organising two-player sports games | Node.js, Express, Javascript, jQuery, Zombie, Mocha, Sequelize, PostgreSQL, MDL
+| [Atomodoro](https://github.com/BenRoss92/Atomodoro) | A pomodoro timer for the Atom text editor | Coffeescript, Jasmine |
+| [Honker](https://github.com/BenRoss92/honker) | A mini Twitter clone | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, DataMapper, BCrypt, Bootstrap, HTML, CSS |
 
-- **Languages & Frameworks** -  Ruby, Rails, Javascript, Node.js, Sinatra, Express.js
-- **Testing Tools** - RSpec, Capybara, Jasmine, Mocha, Chai, Zombie
-- **ORMS & Databases** - DataMapper, Sequelize, MySQL, PostgreSQL
-- **Front-end** - jQuery, Bootstrap, Material Design Lite, HTML, CSS
+**Other** technologies found on my [Github](https://github.com/BenRoss92/):
 
-| Project | Summary | Technologies | Timeframe |
-| :-------------: |:-------------:| :-----:| :---:
-| [Plyr2](https://github.com/BenRoss92/plyr2) | A responsive web app that enables users to organise two player-sports events. Users can create, join and search for events visible on an interactive map. | Javascript, Node.js, jQuery, Express, Sequelize, PostgreSQL, MDL, Zombie, Mocha | 10 days |
-| [Atomodoro](https://github.com/BenRoss92/Atomodoro) | An Atom text-editor package that prevents users from typing during pre-planned breaks. Includes timer and customisable work and break interval numbers and lengths. | Coffeescript, Jasmine | 5 days |
+- *Frameworks* - Rails
+- *Testing Tools* - Web Driver IO, Chai
 
 ## Skills
 
