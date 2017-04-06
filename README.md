@@ -56,11 +56,11 @@ I helped train new staff in a clear and easy-to-follow manner at The Angel Inn a
 
 #### Makers Academy (July - November 2016)
 
-- Software Craftsmanship and object-oriented principles
+- Software craftsmanship and object-oriented principles
 - Learning unfamiliar technologies quickly
-- TDD & BDD
+- Test-driven & behaviour-driven development
 - MVC design pattern
-- XP values & Agile methodologies
+- Extreme Programming & Agile methodologies
 - Pair programming and group projects
 
 #### University of Liverpool (September 2010 - June 2013)
