@@ -2,11 +2,11 @@
 
 [Tech & Projects](#tech--projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies) | [LinkedIn](https://uk.linkedin.com/in/benjaminjackross)
 
-I’m a full-stack developer with a background in music who has always had an interest in building abstract things. Having studied Music Technology at university and created friends' websites, I decided to combine my creative ability and technological interest by studying at Europe’s leading coding bootcamp, Makers Academy.
-
-Having learnt music to a high standard has aided my ability to learn coding. In both subjects, I’ve used patterns and building blocks to achieve abstract goals. I’m used to patient, dedicated repetition, using best practices and switching from a detailed view to seeing a work as a whole. Having also switched between musical instruments as well as programming languages, I have practiced recognizing and transitioning between similar underlying concepts.
+I’m a full-stack developer with a background in music who has always shown an interest in creating abstract projects. Having studied Music Technology and created websites for others, I combined my creative ability and technological interest by studying full-stack web development at Europe’s leading coding bootcamp, Makers Academy.
 
 ## Tech & Projects
+
+The following projects are available on my [Github](https://github.com/BenRoss92/):
 
 | Project | Summary | Technologies |
 |:---:|:---:|:---:|
@@ -14,10 +14,7 @@ Having learnt music to a high standard has aided my ability to learn coding. In 
 | [Atomodoro](https://github.com/BenRoss92/Atomodoro) | A pomodoro timer for the Atom text editor | Coffeescript, Jasmine |
 | [Honker](https://github.com/BenRoss92/honker) | A mini Twitter clone | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, DataMapper, BCrypt, Bootstrap, HTML, CSS |
 
-**Other** technologies found on my [Github](https://github.com/BenRoss92/):
-
-- *Frameworks* - Rails
-- *Testing Tools* - Web Driver IO, Chai
+**Other** technologies include - *[Rails](https://github.com/BenRoss92/yelp_clone)*, *[Web Driver IO and Chai](https://github.com/BenRoss92/headline_fetcher)*.
 
 ## Skills
 
@@ -97,6 +94,6 @@ Music - A\* | Maths - A | English - A
 
 ## Interests & Hobbies
 
-I often attend coding meetups - groups so far have included LRUG, LNUG, HackerNest and eXtreme Tuesday Club. I also enjoy playing in instrumental music groups and recording
+I often attend coding meetups - previous group include LRUG, LNUG, HackerNest and eXtreme Tuesday Club. I also enjoy playing in instrumental music groups and recording
 [film](https://www.youtube.com/user/BenRoss92/videos?live_view=500&sort=dd&view=0&flow=list)
  and [contemporary](https://soundcloud.com/ben-ross-92) music.
