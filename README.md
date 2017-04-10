@@ -76,21 +76,14 @@ Music - A\* | Maths - A | English - A
 
 ## Experience
 
-**Louis Parkinson Climbing** - Website & Social Media Producer (March 2016 - May 2016)
-
-**Stream:20** - Consultant Support Executive (January 2016 - February 2016)
-
-**Louis Parkinson Climbing** & **Man Overboard Quintet** - Freelance Web Designer (November 2015 - January 2016)
-
-**MN2S** - Digital Marketing Assistant (July 2015 - September 2015)
-
-**JW3** - Integration Project Assistant (February 2015 - June 2015)
-
-**The Angel Inn** - Front of House Team Member (May 2014 - March 2015)
-
-**TIG (The Internet Group)** - Technical Support Intern (August 2013 - November 2013)
-
-**Noam Masorti Youth** - Youth Group Leader (July 2009 - August 2010)
+**Website & Social Media Producer** - Louis Parkinson Climbing (March 2016 - May 2016)  
+**Consultant Support Executive** - Stream:20 (January 2016 - February 2016)  
+**Freelance Web Designer** - Louis Parkinson Climbing & Man Overboard Quintet (November 2015 - January 2016)  
+**Digital Marketing Assistant** - MN2S - (July 2015 - September 2015)  
+**Integration Project Assistant** - JW3 (February 2015 - June 2015)  
+**Front of House Team Member** - The Angel Inn (May 2014 - March 2015)  
+**Technical Support Intern** - TIG (The Internet Group) - (August 2013 - November 2013)  
+**Youth Group Leader** - Noam Masorti Youth (July 2009 - August 2010)
 
 ## Interests & Hobbies
 
