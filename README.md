@@ -87,6 +87,6 @@ Music - A\* | Maths - A | English - A
 
 ## Interests & Hobbies
 
-I often attend coding meetups - previous group include LRUG, LNUG, HackerNest and eXtreme Tuesday Club. I also enjoy playing in instrumental music groups and recording
+I often attend coding meetups - previous groups include LRUG, LNUG, HackerNest and eXtreme Tuesday Club. I also enjoy playing in instrumental music groups and recording
 [film](https://www.youtube.com/user/BenRoss92/videos?live_view=500&sort=dd&view=0&flow=list)
  and [contemporary](https://soundcloud.com/ben-ross-92) music.
