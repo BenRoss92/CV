@@ -48,17 +48,15 @@ As a Technical Support Intern at TIG, I researched and fixed customers’ bugs w
 
 #### Creating Solutions
 
-In meetings at The Angel Inn, I put forward solutions to help our team overcome logistical problems, for example not knowing available seating numbers when moving chairs and tables around for abnormal sized parties. The manager put my idea into place – a visual map of tables, respective seating numbers including a tally of unused chairs for each table and as a total – saving us valuable time and improving service when taking reservations during busy periods.
+At Makers Academy, I pitched two minimum viable products ideas - [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2) - which were voted for by my cohort of twenty-five people into becoming real projects. At The Angel Inn, my manager implemented my solution for managing reservations quicker and easier, involving a visual map and tally chart to track available seating.
 
-During the Makers Academy course, when two opportunities arose to pitch and work on our own ideas in teams, my ideas were voted as favourites for both projects by others – [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2). I also decided upon and implemented the user experience for Louis Parkinson Climbing as well as ideas for its blog and social media channels.
-
-#### Analytical Thinking
+#### Thinking Analytically
 
 At JW3, I summarised feedback from a team-building week for the CEO and external consultants. Staff had given their concerns before their two companies had merged. I highlighted important information in a concise and easy-to-read manner, creating tables and graphs to tally, rank and combine information to display the most common and pressing issues.
 
 I also helped write a staff-seating plan to accommodate the merging of staff into one building with limited office space. I created a tally of all staff’s working hours to map out a hot-desking solution whilst keeping departments seated together, and adapted this plan as often part-time workers’ schedules would change.
 
-#### Communication
+#### Communicating
 
 In a team of 20 volunteers, for Noam, I helped care for over 100 thirteen year-olds full-time for 3 weeks in a team of 20, requiring, good public speaking, confidence, enthusiasm and empathy. I lead and helped run presentations, activities and workshops and exchanged feedback with team members and participants to improve the planning and running of sessions.
 
