@@ -56,7 +56,7 @@ At JW3, I created a hot-desking plan to accommodate staff within limited space. 
 
 #### Communicating
 
-As a volunteer at Noam, I lead activities and presentations for young adolescents with confidence and enthusiasm. I worked well in a team of twenty, exchanging feedback appropriately and engaging with over one hundred participants. As a Makers Academy student, I lead a retrospective for my cohort of twenty-five people and was praised by them and my teacher for leading the discussions and prompting engaging questions. I also mentored a junior student, providing clear explanations to help them learn. At The Angel Inn, I helped train new staff in a clear and patient manner.
+As a volunteer at Noam, I lead activities and presentations for young adolescents with confidence and enthusiasm. I worked well in a team of twenty, exchanging feedback appropriately and engaging with over one hundred participants. At Makers Academy, I lead a retrospective for my cohort of twenty-five people and was praised by them and my teacher for leading the discussions and prompting engaging questions. I also mentored a junior student, providing clear explanations to help them learn. At The Angel Inn, I helped train new staff in a clear and patient manner.
 
 ## Other Qualifications
 
