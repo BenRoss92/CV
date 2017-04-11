@@ -1,7 +1,7 @@
 ## Ben Ross
 
 *https://github.com/BenRoss92 | https://www.linkedin.com/in/benjaminjackross/ |   
-benjaminjackross[at]gmail[dot]com | 07951728263*
+benjaminjackross<i>@</i>gmail<i>.</i>com | 07951728263*
 
 ---
 
