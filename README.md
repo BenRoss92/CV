@@ -1,5 +1,10 @@
 ## Ben Ross
 
+*https://github.com/BenRoss92 | https://www.linkedin.com/in/benjaminjackross/ |   
+benjaminjackross[at]gmail[dot]com | 07951728263*
+
+---
+
 [Tech & Projects](#tech--projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies) | [LinkedIn](https://uk.linkedin.com/in/benjaminjackross)
 
 I’m a full-stack developer with a background in music who has always shown an interest in creating abstract projects. Having studied Music Technology and created websites for others, I combined my creative ability and technological interest by studying full-stack web development at Europe’s leading coding bootcamp, Makers Academy.
