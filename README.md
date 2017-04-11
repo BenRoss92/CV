@@ -52,9 +52,8 @@ At Makers Academy, I pitched two minimum viable products ideas - [Atomodoro](htt
 
 #### Thinking Analytically
 
-At JW3, I summarised feedback from a team-building week for the CEO and external consultants. Staff had given their concerns before their two companies had merged. I highlighted important information in a concise and easy-to-read manner, creating tables and graphs to tally, rank and combine information to display the most common and pressing issues.
+At JW3, I created a hot-desking plan to accommodate staff within limited space. I calculated the remaining desk time available by subtracting the total hours worked from the total available desk time. I then assigned working hours by viewing the daily total differences in a table. I also helped the CEO gain an overview of important staff and customer feedback by tallying, ranking and combining varying and unstructured answers into tables and graphs for concise reporting.
 
-I also helped write a staff-seating plan to accommodate the merging of staff into one building with limited office space. I created a tally of all staff’s working hours to map out a hot-desking solution whilst keeping departments seated together, and adapted this plan as often part-time workers’ schedules would change.
 
 #### Communicating
 
