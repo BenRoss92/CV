@@ -54,12 +54,9 @@ At Makers Academy, I pitched two minimum viable products ideas - [Atomodoro](htt
 
 At JW3, I created a hot-desking plan to accommodate staff within limited space. I calculated the remaining desk time available by subtracting the total hours worked from the total available desk time. I then assigned working hours by viewing the daily total differences in a table. I also helped the CEO gain an overview of important staff and customer feedback by tallying, ranking and combining varying and unstructured answers into tables and graphs for concise reporting.
 
-
 #### Communicating
 
-In a team of 20 volunteers, for Noam, I helped care for over 100 thirteen year-olds full-time for 3 weeks in a team of 20, requiring, good public speaking, confidence, enthusiasm and empathy. I lead and helped run presentations, activities and workshops and exchanged feedback with team members and participants to improve the planning and running of sessions.
-
-I helped train new staff in a clear and easy-to-follow manner at The Angel Inn and at Makers Academy, engaged and diffused customer feedback at TIG and was praised by pairing partners and group members at Makers Academy as being honest and easy to work with. I also mentored a junior 6 weeks behind me on the course in order to help guide their learning and coding practices.
+As a volunteer at Noam, I lead activities and presentations for young adolescents with confidence and enthusiasm. I worked well in a team of twenty, exchanging feedback appropriately and engaging with over one hundred participants. As a Makers Academy student, I lead a retrospective for my cohort of twenty-five people and was praised by them and my teacher for leading the discussions and prompting engaging questions. I also mentored a junior student, providing clear explanations to help them learn. At The Angel Inn, I helped train new staff in a clear and patient manner.
 
 ## Other Qualifications
 
