@@ -5,9 +5,20 @@ benjaminjackross[at]gmail[dot]com | 07951728263*
 
 ---
 
-[Tech & Projects](#tech--projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies) | [LinkedIn](https://uk.linkedin.com/in/benjaminjackross)
+[Education](#education) | [Tech & Projects](#tech--projects) | [Skills](#skills) | [Other Qualifications](#other-qualifications) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies)
 
 I’m a full-stack developer with a background in music who has always shown an interest in creating abstract projects. Having studied Music Technology and created websites for others, I combined my creative ability and technological interest by studying full-stack web development at Europe’s leading coding bootcamp, Makers Academy.
+
+## Education
+
+#### Makers Academy (July - November 2016)
+
+- Software craftsmanship and object-oriented principles
+- Learning unfamiliar technologies quickly
+- Test-driven & behaviour-driven development
+- MVC design pattern
+- Extreme Programming & Agile methodologies
+- Pair programming and group projects
 
 ## Tech & Projects
 
@@ -53,16 +64,7 @@ In a team of 20 volunteers, for Noam, I helped care for over 100 thirteen year-o
 
 I helped train new staff in a clear and easy-to-follow manner at The Angel Inn and at Makers Academy, engaged and diffused customer feedback at TIG and was praised by pairing partners and group members at Makers Academy as being honest and easy to work with. I also mentored a junior 6 weeks behind me on the course in order to help guide their learning and coding practices.
 
-## Education
-
-#### Makers Academy (July - November 2016)
-
-- Software craftsmanship and object-oriented principles
-- Learning unfamiliar technologies quickly
-- Test-driven & behaviour-driven development
-- MVC design pattern
-- Extreme Programming & Agile methodologies
-- Pair programming and group projects
+## Other Qualifications
 
 #### University of Liverpool (September 2010 - June 2013)
 
