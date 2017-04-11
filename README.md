@@ -7,7 +7,7 @@ benjaminjackross[at]gmail[dot]com | 07951728263*
 
 [Education](#education) | [Tech & Projects](#tech--projects) | [Skills](#skills) | [Other Qualifications](#other-qualifications) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies)
 
-I’m a full-stack developer with a background in music who has always shown an interest in creating abstract projects. Having studied Music Technology and created websites for others, I combined my creative ability and technological interest by studying full-stack web development at Europe’s leading coding bootcamp, Makers Academy.
+I’m a full-stack developer with a background in music who has always shown an interest in creating abstract projects. Having studied music technology and created websites for others, I combined my creative ability and technological interest by studying full-stack web development at Europe’s leading coding bootcamp, Makers Academy.
 
 ## Education
 
