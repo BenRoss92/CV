@@ -65,7 +65,7 @@ As a volunteer at Noam, I lead activities and presentations for young adolescent
 
 - BA Hons Music and Popular Music (2:1)
 - Music Technology module - learnt industry-standard recording software and hardware
-- World Music module - achieved a 1:1
+- Achieved 1:1 in World Music module
 
 #### University College School (September 2000 - June 2010)
 
