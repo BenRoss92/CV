@@ -73,8 +73,6 @@ As a volunteer at Noam, I lead activities and presentations for young adolescent
 - A levels: (Equivalent to 320 UCAS points) -
  Music - A\* | Maths - A | Philosophy - D
 - AS Level: French - B
-- 10 GCSEs - 2 A\*'s, 5 A's, 3 B's including:
-Music - A\* | Maths - A | English - A
 
 ## Experience
 
