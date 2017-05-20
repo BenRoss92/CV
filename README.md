@@ -56,7 +56,6 @@ At JW3, I created a hot-desking plan to accommodate staff within limited space. 
 #### University of Liverpool (September 2010 - June 2013)
 
 - BA Hons Music and Popular Music (2:1)
-- Music Technology module - learnt industry-standard recording software and hardware
 - Achieved 1:1 in World Music module
 
 #### University College School (September 2000 - June 2010)
