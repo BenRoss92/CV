@@ -43,13 +43,10 @@ Whilst learning as a Technical Support Intern at TIG, I voluntarily kept categor
 
 In order to redesign both the [Louis Parkinson Climbing](http://louisparkinsonclimbing.co.uk/) and [Man Overboard Quintet](http://manoverboardswing.co.uk/) websites, I taught myself HTML, CSS and improved my WordPress knowledge, as well as Google Analytics and social media analytics tools to market Louis Parkinson Climbing. At MN2S, I learnt WordPress and basic Photoshop quickly, researching anything unfamiliar and keeping notes to recall steps quickly and avoid repeating questions, as well as learning affiliate marketing programs at Stream:20.
 
-#### Finding Solutions
+#### Creating and finding solutions
 
-As a Technical Support Intern at TIG, I researched and fixed customers’ bugs without having prior IT servicing experience or knowledge, but knowing where and how to look. When redesigning and fixing issues of the Louis Parkinson Climbing, MN2S and Man Overboard Quintet websites, I found and implemented solutions through researching and asking the right questions of the wider online community.
+As a Technical Support Intern, I researched and solved customers’ bugs without previous IT experience, deducing where and how to look. I pitched two prototype ideas at Makers Academy - [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2) - subsequently voted by my cohort of twenty-five people into becoming real projects. At The Angel Inn, I improved the efficiency of managing reservations by providing a visual solution to management.
 
-#### Creating Solutions
-
-At Makers Academy, I pitched two minimum viable products ideas - [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2) - which were voted for by my cohort of twenty-five people into becoming real projects. At The Angel Inn, my manager implemented my solution for managing reservations quicker and easier, involving a visual map and tally chart to track available seating.
 
 #### Thinking Analytically
 
