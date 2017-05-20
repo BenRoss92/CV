@@ -37,7 +37,7 @@ The following projects are available on my [Github](https://github.com/BenRoss92
 
 #### Communication & Proactivity
 
-At TIG and MN2S, I voluntarily created tutorials and notes which would help train future interns quicker. At Makers Academy, I lead a retrospective for a cohort of 25 people and was praised for being engaging, leading discussions and prompting important questions. I also mentored a junior student, providing clear and patient instruction. During group planning of the ‘plyr2’ project, I encouraged open discussions and democratic decisions to promote strong teamwork.
+At TIG and MN2S, I voluntarily created tutorials and notes which would help train future interns quicker. At Makers Academy, I lead a retrospective for a cohort of 25 people and was praised for being engaging, leading discussions and prompting important questions. I also mentored a junior student, providing clear and patient instruction. When planning [Plyr2](https://github.com/BenRoss92/plyr2) as a group, I encouraged open discussions and democratic decisions to promote strong teamwork.
 
 #### Learning Technical Skills
 
