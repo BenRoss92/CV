@@ -31,7 +31,7 @@ The following projects are available on my [Github](https://github.com/BenRoss92
 | [Atomodoro](https://github.com/BenRoss92/Atomodoro) | A pomodoro timer for the Atom text editor | Coffeescript, Jasmine |
 | [Honker](https://github.com/BenRoss92/honker) | A mini Twitter clone | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, DataMapper, BCrypt, Bootstrap, HTML, CSS |
 
-**Other** technologies include - *[Rails](https://github.com/BenRoss92/yelp_clone)*, *[Web Driver IO and Chai](https://github.com/BenRoss92/headline_fetcher)*.
+**Other** technologies include - *[Ruby on Rails](https://github.com/BenRoss92/yelp_clone)*, *[Selenium Webdriver and Chai](https://github.com/BenRoss92/headline_fetcher)*.
 
 ## Skills
 
