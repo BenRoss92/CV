@@ -62,9 +62,8 @@ At JW3, I created a hot-desking plan to accommodate staff within limited space. 
 #### University College School (September 2000 - June 2010)
 
 - Awarded 'Outstanding Contribution to Music Department'
-- A levels: (Equivalent to 320 UCAS points) -
- Music - A\* | Maths - A | Philosophy - D
-- AS Level: French - B
+- A-levels (Equivalent to 320 UCAS points) -
+ Music - A\* | Maths - A | Philosophy - D | French (AS-level) - B
 
 ## Experience
 
