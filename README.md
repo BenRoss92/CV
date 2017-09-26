@@ -6,18 +6,19 @@
 
 ---
 
-[Experience](#experience) | [Education](#education) | [Tech & Projects](#tech-projects) | [Skills](#skills) | [Other Experience & Qualifications](#other-experience-qualifications) |  [Interests & Hobbies](#interests-hobbies)
+[Experience](#experience) | [Education](#education) | [Tech & Projects](#tech--projects) | [Skills](#skills) | [Other Experience & Qualifications](#other-experience--qualifications) |  [Interests & Hobbies](#interests--hobbies)
 
-I’m a full-stack developer with a background in making creative projects. Having developed websites and studied music technology, I learnt full-stack web development at Europe’s leading coding bootcamp, Makers Academy, to combine my creative and technological abilities.
+I’m a full-stack developer with a creative background in music. Having experimented with front-end development, I studied full-stack development at Europe’s leading coding bootcamp - Makers Academy - to combine my creative and technological abilities.
 
 ## Experience
 
 **Junior Full Stack Developer** - *Tasty Digital* (June 2017 – August 2017)
 
-- Developed custom WordPress websites using PHP, the WordPress and Genesis APIs, JavaScript, jQuery, SASS, CSS, HTML and Bootstrap
-- Created web icons and manipulated design mock-ups using Sketch
-- Updated and hosted websites websites using WHM, cPanel, MAMP, FTP and phpMyAdmin
-- Managed workflow using Git, Trello and Slack
+- Developed WordPress websites using PHP, WordPress & Genesis APIs, jQuery, SASS, HTML & Bootstrap
+- Learnt unfamiliar technologies quickly
+- Created web icons and translated design mock-ups using Sketch
+- Hosted and updated websites using WHM, cPanel & FTP
+- Organised workflow using Git, Trello, Slack & Evernote
 
 ## Education
 
@@ -26,7 +27,6 @@ I’m a full-stack developer with a background in making creative projects. Havi
 Focused on:
 
 - Software craftsmanship and object-oriented principles
-- Learning unfamiliar technologies quickly
 - Test-driven & behaviour-driven development
 - MVC design pattern
 - Extreme Programming & Agile methodologies
@@ -36,13 +36,13 @@ Focused on:
 
 The following projects are available on my [Github](https://github.com/BenRoss92/):
 
-| Project | Summary | Technologies |
+| Project | Technologies | Summary |
 |:---:|:---:|:---:|
-| [Plyr2](https://github.com/BenRoss92/plyr2) | A social media platform for organising two-player sports games | Node.js, Express, Javascript, jQuery, Zombie, Mocha, Sequelize, PostgreSQL, MDL
-| [Atomodoro](https://github.com/BenRoss92/Atomodoro) | A pomodoro timer for the Atom text editor | Coffeescript, Jasmine |
-| [Honker](https://github.com/BenRoss92/honker) | A mini Twitter clone | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, DataMapper, BCrypt, Bootstrap, HTML, CSS |
+| [Plyr2](https://github.com/BenRoss92/plyr2) | Node.js, JavaScript, jQuery, PostgreSQL | A social media platform for organising two-player sports games
+| [Honker](https://github.com/BenRoss92/honker) | Ruby, PostgreSQL, CSS, HTML, Bootstrap | A mini Twitter clone |
+| [Atomodoro](https://github.com/BenRoss92/Atomodoro) | Coffeescript, Jasmine | A pomodoro timer for the Atom text editor |
 
-**Other** technologies include - *[Ruby on Rails](https://github.com/BenRoss92/yelp_clone)*, *[Selenium Webdriver and Chai](https://github.com/BenRoss92/headline_fetcher)*.
+**Other** projects include: [Ruby & JavaScript](https://github.com/BenRoss92/quiz), [Rails](https://github.com/BenRoss92/yelp_clone), [PHP](https://github.com/BenRoss92/customer_portal)
 
 ## Skills
 
