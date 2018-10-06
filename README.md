@@ -64,9 +64,9 @@ At JW3, I created a hot-desking plan to accommodate staff within limited space. 
 
 ## Other Experience & Qualifications
 
-**Website & Social Media Producer** - *Louis Parkinson Climbing* (March 2016 - May 2016)  
+**Content Writer (Website & Social Media)** - *Louis Parkinson Climbing* (March 2016 - May 2016)  
 **Consultant Support Executive** - *Stream:20* (January 2016 - February 2016)  
-**Freelance Web Designer** - Louis Parkinson *Climbing & Man Overboard Quintet* (November 2015 - January 2016)  
+**Web Designer** - Louis Parkinson *Climbing & Man Overboard Quintet* (November 2015 - January 2016)  
 **Digital Marketing Assistant** - *MN2S* - (July 2015 - September 2015)  
 **Integration Project Assistant** - *JW3* (February 2015 - June 2015)  
 **Front of House Team Member** - *The Angel Inn* (May 2014 - March 2015)  
