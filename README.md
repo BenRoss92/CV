@@ -69,7 +69,7 @@ I pitched two prototype ideas at Makers Academy - [Atomodoro](https://github.com
 
 #### Self-learning
 
-Before studying at Makers Academy, I taught myself HTML, CSS and WordPress to redesign websites for Louis Parkinson Climbing and [Man Overboard Quintet]([Man Overboard Quintet](https://manoverboardswing.co.uk). I also learnt the basics of Google analytics and social media analytics tools to track engagement for Louis Parkinson Climbing.
+Before studying at Makers Academy, I taught myself HTML, CSS and WordPress to redesign websites for Louis Parkinson Climbing and [Man Overboard Quintet](https://manoverboardswing.co.uk). I also learnt the basics of Google analytics and social media analytics tools to track engagement for Louis Parkinson Climbing.
 
 ## Interests & Hobbies
 
