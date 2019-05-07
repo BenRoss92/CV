@@ -21,7 +21,7 @@ I’m a full stack developer with a creative background in music. I developed a 
 
 **Junior Full Stack Developer** - *Tasty Digital* (June 2017 – August 2017)
 
-- Transformed design mock-ups using PHP, WordPress, Genesis, jQuery, SASS, HTML & Bootstrap
+- Built responsive websites using PHP, WordPress, Genesis, jQuery, SASS, HTML & Bootstrap
 - Created web icons and understood design mock-ups using Sketch
 - Learnt from scratch: WordPress, Genesis, SASS
 - Organised work using Git, Trello, Slack & Evernote
