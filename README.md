@@ -51,7 +51,7 @@ The following projects are available on my [GitHub](https://github.com/BenRoss92
 | Project | Technologies | Summary |
 |:---:|:---:|:---:|
 | [we-got-tickets-scraper](https://github.com/BenRoss92/we-got-tickets-scraper) | Node.js, Mocha, Chai | WeGotTickets UK web scraper |
-| [Plyr2](https://github.com/BenRoss92/plyr2) | Node.js, JavaScript, jQuery, PostgreSQL | Platform for organizing two-player sports games |
+| [Plyr2](https://github.com/BenRoss92/plyr2) | Node.js, JavaScript, Express, jQuery, PostgreSQL | Platform for organizing two-player sports games |
 | [Honker](https://github.com/BenRoss92/honker) | Ruby, PostgreSQL, CSS, HTML, Bootstrap | Mini Twitter clone |
 | [Atomodoro](https://github.com/BenRoss92/Atomodoro) | CoffeeScript, Jasmine | Pomodoro timer that can disable the Atom text editor |
 
