@@ -25,7 +25,7 @@ I’m a full stack developer with a creative background in music. I developed a 
 - Created web icons and understood design mock-ups using Sketch
 - Learnt from scratch: WordPress, Genesis, SASS
 - Organised work using Git, Trello, Slack & Evernote
-- Hosted and updated websites using WHM, cPanel & FTP
+- Hosted and updated websites using cPanel & FTP
 
 ## Education
 
