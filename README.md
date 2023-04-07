@@ -10,6 +10,8 @@ I’m a full stack developer with a creative background in music. I developed a 
 
 ## Experience
 
+**Software Engineer** - *YouView* (July 2019 - present)
+
 **Software Engineer** - *Root Capital LLP* & *XenZone* (October 2017 - February 2019)
 
 - Added a UI feature into production in the first week, despite unfamiliarity with React
