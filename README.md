@@ -21,20 +21,20 @@ I’m a full stack developer with a creative background in music. I developed a 
 
 **Software Engineer** - *Root Capital LLP* & *XenZone* (October 2017 - February 2019)
 
-- Added a UI feature into production in the first week, despite unfamiliarity with React
+- Added a UI feature in production in my first week despite unfamiliarity with React
 - Learnt from scratch: TypeScript, React, Redux, Jest, Material UI, MJML and Mustache.js
 - Built an email rendering library using TypeScript, Mustache, Mocha and MJML
-- Created a tested login form with validation using React, Jest and Material UI
-- Took on larger refactoring tasks for both front-end and back-end
-- Voluntarily tracked team tech-debt, keeping lists and raising in sprint meetings
+- Created a login form with form validation using test-driven development, React, Jest and Material UI
+- Took on larger refactoring tasks in both front-end and back-end
+- Voluntarily tracked and helped encourage tackling of team tech-debt
 
 **Junior Full Stack Developer** - *Tasty Digital* (June 2017 – August 2017)
 
 - Built responsive websites using PHP, WordPress, Genesis, jQuery, SASS, HTML & Bootstrap
 - Created web icons and understood design mock-ups using Sketch
 - Learnt from scratch: WordPress, Genesis, SASS
-- Organised work using Git, Trello, Slack & Evernote
-- Hosted and updated websites using cPanel & FTP
+- Tracked and organised work using Git, Trello & Evernote
+- Managed hosting and updating of websites using cPanel & FTP
 
 ## Education
 
@@ -42,10 +42,10 @@ I’m a full stack developer with a creative background in music. I developed a 
 
 Focused on:
 
-- Aiming towards Software Craftsmanship
-- Applying the pillars and principles of OOP
+- Software Craftsmanship
+- Applying Object-Oriented Programming principles
 - Following TDD, BDD, Extreme Programming & Agile methodologies
-- Self-directed learning, pair programming and team projects
+- Self-directed learning, pair programming and group projects
 - Designing an MVC architecture
 
 #### University of Liverpool (September 2010 - June 2013)
