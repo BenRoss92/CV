@@ -82,5 +82,4 @@ Before studying at Makers Academy, I taught myself HTML, CSS and WordPress to re
 
 ## Interests & Hobbies
 
-I often attend coding meetups - previous groups include LRUG, LNUG, HackerNest and eXtreme Tuesday Club. I also enjoy performing and watching live music, and recording [film](https://www.youtube.com/user/BenRoss92/videos?live_view=500&sort=dd&view=0&flow=list)
- and [contemporary](https://soundcloud.com/ben-ross-92) music.
+I sometimes attend coding meetups and workshops, recent examples being [DroidCon](https://www.droidcon.com/) 2022, [London Node.js User Group](https://www.meetup.com/london-nodejs), [Coders UK Meetup](https://www.meetup.com/codersuk/) and [zero2hero Training](https://www.meetup.com/zero2hero/). I also enjoy playing guitar in a music band and have performed at YouView company events.
