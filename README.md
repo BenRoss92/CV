@@ -78,4 +78,4 @@ While at YouView, I have voluntarily taken online courses in Android (from [Udac
 
 ## Interests & Hobbies
 
-I sometimes attend coding meetups and workshops, recent examples being [DroidCon](https://www.droidcon.com/) 2022, [London Node.js User Group](https://www.meetup.com/london-nodejs), [Coders UK Meetup](https://www.meetup.com/codersuk/) and [zero2hero Training](https://www.meetup.com/zero2hero/). I also enjoy playing guitar in a music band and have performed at YouView company events.
+I sometimes attend coding meetups and workshops, recent examples being [DroidCon](https://www.droidcon.com/) 2022, [London Node.js User Group](https://www.meetup.com/london-nodejs), [Coders UK Meetup](https://www.meetup.com/codersuk/) and [zero2hero Training](https://www.meetup.com/zero2hero/). I also enjoy playing guitar in a band and have performed at YouView company events.
