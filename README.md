@@ -64,17 +64,17 @@ My [personal projects](https://github.com/BenRoss92/) include technologies such 
 
 ## Skills
 
-#### Communication & Proactivity
+#### Communication
 
-At TIG and MN2S, I voluntarily created tutorials for future interns to learn more quickly on the job. At Makers Academy, I lead a retrospective for 25 people and received praise for creating engaging discussions. When planning the [Plyr2](https://github.com/BenRoss92/plyr2) project as a group, I encouraged non-judgmental discussions and democratic decision-making to promote strong teamwork. At Root Capital, I mentored a new colleague, providing clear and patient instructions.
+At YouView and Root Capital, I voluntarily mentored multiple new team members, pairing and giving support to help them learn quickly in a protected environment. At Makers Academy, I lead an in-person cross-team retrospective for 25 people, receiving praise for creating engaging discussions. When planning the [Plyr2](https://github.com/BenRoss92/plyr2) group project at Makers Academy, I encouraged open discussions and democratic decision-making, helping to promote strong teamwork. 
 
 #### Creating Solutions
 
-I pitched two prototype ideas at Makers Academy - [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2) - which were voted into becoming real projects by a cohort of 25 people. At The Angel Inn, I simplified taking reservations for the team by creating an easy-to-use form template and seating plan.
+At YouView, I created and helped implement ideas for solving team Scrum and ways-of-working issues, which were praised by both the team's Agile Coach and manager. At Makers Academy I pitched two prototype ideas - [Atomodoro](https://github.com/BenRoss92/Atomodoro) and [Plyr2](https://github.com/BenRoss92/plyr2) - which won the majority of votes from 25 students to become real group projects.
 
 #### Self-learning
 
-Before studying at Makers Academy, I taught myself HTML, CSS and WordPress to redesign websites for Louis Parkinson Climbing and [Man Overboard Quintet](https://manoverboardswing.co.uk). I also learnt the basics of Google analytics and social media analytics tools to track engagement for Louis Parkinson Climbing.
+While at YouView, I have voluntarily taken online courses in Android (from [Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) and [Udemy](https://www.udemy.com/course/devslopes-android-kotlin/)), [RxJS](https://www.linkedin.com/learning/learning-rxjs) and [React](https://www.udemy.com/share/101Way3@NFNQVrQkIXn5IR27oH41jV5v4-UOU9xQYSWB7qRQ5Bu8oCzRwlTEyUCAziumq5jR/) to learn technologies on the job more quickly, and have created [GitHub repositories](https://github.com/BenRoss92) to show the results of practising these technologies.
 
 ## Interests & Hobbies
 
