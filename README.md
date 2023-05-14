@@ -1,6 +1,6 @@
 ### Ben Ross
 
-*https://github.com/BenRoss92 | https://www.linkedin.com/in/benjaminjackross |   
+*https://github.com/BenRoss92/CV/blob/master/README.md | https://github.com/BenRoss92 | https://www.linkedin.com/in/benjaminjackross |   
 &#00098;&#x65;&#x6e;&#106;&#00097;&#109;&#x69;&#000110;&#x6a;&#x61;&#99;&#x6b;&#000114;&#x6f;&#115;&#x73;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;
  | &#x30;&#x37;&#00057;&#00053;&#00049;&#x37;&#50;&#x38;&#50;&#x36;&#51;*
 
