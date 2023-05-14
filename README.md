@@ -6,7 +6,7 @@
 
 ---
 
-I’m a full stack developer with a creative background in music. I developed a passion for coding whilst teaching myself front-end development, and decided to pursue software development by studying full-stack development at Makers Academy, Europe’s leading coding boot camp.
+I’m a full stack developer with a creative background in music. While teaching myself front-end development in my spare time, I developed a passion for coding and decided to pursue software development by studying full-stack development at Makers Academy, London's leading coding boot camp. Since then I have gained hands-on experience at companies with both small and large teams in a variety of technologies in new and older codebases.
 
 ## Experience
 
