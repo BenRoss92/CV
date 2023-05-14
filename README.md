@@ -55,16 +55,12 @@ Focused on:
 
 ## Tech & Projects
 
-The following projects are available on my [GitHub](https://github.com/BenRoss92/):
+My [personal projects](https://github.com/BenRoss92/) include technologies such as TypeScript, Node.js, React, Android and Kotlin. Most recently completed examples include:
 
 | Project | Technologies | Summary |
 |:---:|:---:|:---:|
+| [sinon-workshop-examples](https://github.com/BenRoss92/sinon-workshop-examples) | TypeScript, Node.js, Sinon.js, Mocha, Chai | Created runnable Sinon.js examples for presenting a mocking workshop at YouView |
 | [we-got-tickets-scraper](https://github.com/BenRoss92/we-got-tickets-scraper) | Node.js, Mocha, Chai | WeGotTickets UK web scraper |
-| [Plyr2](https://github.com/BenRoss92/plyr2) | Node.js, JavaScript, Express, jQuery, PostgreSQL | Platform for organizing two-player sports games |
-| [Honker](https://github.com/BenRoss92/honker) | Ruby, PostgreSQL, CSS, HTML, Bootstrap | Mini Twitter clone |
-| [Atomodoro](https://github.com/BenRoss92/Atomodoro) | CoffeeScript, Jasmine | Pomodoro timer that can disable the Atom text editor |
-
-**Other** projects include: [A quiz](https://github.com/BenRoss92/quiz) (Ruby & JavaScript), [a Yelp clone](https://github.com/BenRoss92/yelp_clone) (Rails) and [a customer portal](https://github.com/BenRoss92/customer_portal) (PHP)
 
 ## Skills
 
