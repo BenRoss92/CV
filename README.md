@@ -59,8 +59,8 @@ My [personal projects](https://github.com/BenRoss92/) include technologies such 
 
 | Project | Technologies | Summary |
 |:---:|:---:|:---:|
-| [sinon-workshop-examples](https://github.com/BenRoss92/sinon-workshop-examples) | TypeScript, Node.js, Sinon.js, Mocha, Chai | Created runnable Sinon.js examples for presenting a mocking workshop at YouView |
-| [we-got-tickets-scraper](https://github.com/BenRoss92/we-got-tickets-scraper) | Node.js, Mocha, Chai | WeGotTickets UK web scraper |
+| [sinon-workshop-examples](https://github.com/BenRoss92/sinon-workshop-examples) | TypeScript, Node.js, Sinon.js, Mocha, Chai | Runnable Sinon.js examples for a mocking workshop I presented at YouView |
+| [we-got-tickets-scraper](https://github.com/BenRoss92/we-got-tickets-scraper) | Node.js, Mocha, Chai | A web scraper for WeGotTickets UK |
 
 ## Skills
 
