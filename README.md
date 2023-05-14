@@ -50,8 +50,7 @@ Focused on:
 
 #### University of Liverpool (September 2010 - June 2013)
 
-- BA Hons Music and Popular Music (2:1)
-- Achieved 1:1 in World Music module
+- BA Hons Music and Popular Music (2:1) - Achieved 1:1 in World Music module
 
 ### Tech & Projects
 
