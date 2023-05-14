@@ -65,7 +65,7 @@ My [personal projects](https://github.com/BenRoss92/) include technologies such 
 
 #### Communication
 
-At YouView and Root Capital, I voluntarily mentored multiple new team members, pairing and giving support to help them learn quickly in a protected environment. At Makers Academy, I lead an in-person cross-team retrospective for 25 people, receiving praise for creating engaging discussions. When planning the [Plyr2](https://github.com/BenRoss92/plyr2) group project at Makers Academy, I encouraged open discussions and democratic decision-making, helping to promote strong teamwork. 
+At YouView and Root Capital, I voluntarily mentored multiple new team members, pairing and giving support to help them learn quickly in a protected environment. At Makers Academy, I lead an in-person cross-team retrospective for 25 people, receiving praise for creating engaging discussions.
 
 #### Creating Solutions
 
