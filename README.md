@@ -6,7 +6,7 @@
 
 ---
 
-I’m a full stack developer with a creative background in music. While teaching myself front-end development in my spare time, I developed a passion for coding and decided to pursue software development by studying full-stack development at Makers Academy, London's leading coding boot camp. Since then I have gained hands-on experience at companies with both small and large teams in a variety of technologies in new and older codebases.
+I’m a full stack developer with a creative background in music. While teaching myself front-end development in my spare time, I discovered a passion for coding and decided to pursue software development by studying full-stack development at Makers Academy, London's leading coding boot camp. Since then I have gained hands-on experience at companies with both small and large teams in a variety of technologies in new and older codebases. I sometimes attend coding meetups and workshops, recent examples being [DroidCon](https://www.droidcon.com/) 2022, [London Node.js User Group](https://www.meetup.com/london-nodejs), [Coders UK Meetup](https://www.meetup.com/codersuk/) and [zero2hero Training](https://www.meetup.com/zero2hero/).
 
 ## Experience
 
