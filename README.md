@@ -76,6 +76,3 @@ At YouView, I created and helped implement ideas for solving team Scrum and ways
 
 While at YouView, I have voluntarily taken online courses in Android (from [Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) and [Udemy](https://www.udemy.com/course/devslopes-android-kotlin/)), [RxJS](https://www.linkedin.com/learning/learning-rxjs) and [React](https://www.udemy.com/share/101Way3@NFNQVrQkIXn5IR27oH41jV5v4-UOU9xQYSWB7qRQ5Bu8oCzRwlTEyUCAziumq5jR/) to learn technologies on the job more quickly, and have created [GitHub repositories](https://github.com/BenRoss92) to show the results of practising these technologies.
 
-## Interests & Hobbies
-
-I sometimes attend coding meetups and workshops, recent examples being [DroidCon](https://www.droidcon.com/) 2022, [London Node.js User Group](https://www.meetup.com/london-nodejs), [Coders UK Meetup](https://www.meetup.com/codersuk/) and [zero2hero Training](https://www.meetup.com/zero2hero/). I also enjoy playing guitar in a band and have performed at YouView company events.
