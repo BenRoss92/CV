@@ -17,7 +17,7 @@ I’m a creative full stack developer with a background in music. I discovered a
 - Helped build a Node.js script to automate tasks for shipping YouView's Android TV app
 - Created front-end, back-end and cloud features using JavaScript, Node.js, TypeScript, React, AWS, Kotlin and Android
 - Wrote automated tests using Jest, Mocha, Cucumber, Gulp and GitHub Actions
-- Fixed bugs in YouView’s android apps and web-based UI
+- Diagnosed and fixed bugs in YouView’s android apps and web-based UI
 
 **Software Engineer** - *Root Capital LLP* & *XenZone* (October 2017 - February 2019)
 
