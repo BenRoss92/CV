@@ -14,6 +14,7 @@ I’m a creative full stack developer with a background in music. I discovered a
 - Voluntarily: mentored new hires, gave knowledge sharing presentations, participated in a sustainability hackathon, created shared documentation and led improvements on automating android TV software releases
 - Learnt Android, Kotlin, GitHub Actions, RxJS and AWS from scratch
 - Led team Scrum ceremonies
+- Helped build a Node.js script to ship new versions of YouView's Android TV app
 - Created UI front-end, back-end and cloud features using JavaScript, TypeScript, React, Node, Android, Kotlin and AWS
 - Wrote automated tests using Jest, Mocha, Cucumber, Gulp and GitHub Actions
 - Fixed bugs in YouView’s android apps and web-based UI
