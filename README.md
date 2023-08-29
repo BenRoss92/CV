@@ -15,9 +15,9 @@ I’m a creative full stack developer with a background in music. I discovered a
 - Learnt Android, Kotlin, GitHub Actions, AWS and RxJS from scratch
 - Led team Scrum ceremonies
 - Helped build a Node.js script to automate tasks for shipping YouView's Android TV app
-- Created front-end, back-end and cloud features using JavaScript, Node.js, TypeScript, React, AWS, Kotlin and Android
-- Wrote automated tests using Jest, Mocha, Cucumber, Gulp and GitHub Actions
-- Diagnosed and fixed bugs in YouView’s android apps and web-based UI
+- Created front-end, back-end and cloud features for TV boxes using JavaScript, Node.js, TypeScript, React, AWS, Kotlin and Android
+- Wrote automated tests for UI changes using Jest, Mocha, Cucumber, Gulp and GitHub Actions
+- Diagnosed and fixed bugs in YouView’s Android apps and JavaScript-based UI
 
 **Software Engineer** - *Root Capital LLP* & *XenZone* (October 2017 - February 2019)
 
@@ -26,7 +26,7 @@ I’m a creative full stack developer with a background in music. I discovered a
 - Wrote API endpoints in back-end microservices using Node.js, Koa.js, PostgreSQL and Knex.js, adding documentation using Swagger
 - Built an email rendering library using Node.js, TypeScript, Mustache, Mocha and MJML
 - Created a login form with form validation using test-driven development, React, Jest and Material UI
-- Took on larger refactoring tasks in both front-end and back-end
+- Took on larger refactoring tasks in both the front-end and back-end to improve codebase quality
 - Voluntarily tracked and helped encourage tackling of team tech-debt
 
 **Junior Full Stack Developer** - *Tasty Digital* (June 2017 – August 2017)
