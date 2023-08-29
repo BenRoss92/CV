@@ -12,9 +12,9 @@ I’m a creative full stack developer with a background in music. I discovered a
 **Software Engineer** - *YouView* (July 2019 - present)
 
 - Voluntarily: mentored new hires, gave knowledge sharing presentations, participated in a sustainability hackathon, created shared documentation and led improvements on automating android TV software releases
-- Learnt Android, Kotlin, GitHub Actions, RxJS and AWS from scratch
+- Learnt Android, Kotlin, GitHub Actions, AWS and RxJS from scratch
 - Led team Scrum ceremonies
-- Helped build a Node.js script to ship new versions of YouView's Android TV app
+- Helped build a Node.js script to automate tasks for shipping YouView's Android TV app
 - Created front-end, back-end and cloud features using JavaScript, TypeScript, React, AWS, Kotlin and Android
 - Wrote automated tests using Jest, Mocha, Cucumber, Gulp and GitHub Actions
 - Fixed bugs in YouView’s android apps and web-based UI
@@ -23,7 +23,8 @@ I’m a creative full stack developer with a background in music. I discovered a
 
 - Added a UI feature in production in my first week despite unfamiliarity with React
 - Learnt from scratch: TypeScript, React, Redux, Jest, Material UI, MJML and Mustache.js
-- Built an email rendering library using TypeScript, Mustache, Mocha and MJML
+- Wrote API endpoints in back-end microservices using Node.js, Koa.js, PostgreSQL and Knex.js, adding documentation using Swagger
+- Built an email rendering library using Node.js, TypeScript, Mustache, Mocha and MJML
 - Created a login form with form validation using test-driven development, React, Jest and Material UI
 - Took on larger refactoring tasks in both front-end and back-end
 - Voluntarily tracked and helped encourage tackling of team tech-debt
